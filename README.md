@@ -8,4 +8,5 @@
   user’s selection. At that point, the program reveals both choices and
   prints a statement indicating that the user won, that the computer won, 
   or that it was a tie. Keep playing until the user chooses to stop, then 
-  print the number of user wins, losses, and ties.
+  print the number of user wins, losses, and ties.  Implement with object 
+  oriented design.
