@@ -11,7 +11,7 @@
  * or that it was a tie. Keep playing until the user chooses to stop, then 
  * print the number of user wins, losses, and ties.
  *
- * Gabe Nydick
+ * Gabe N
  * 10/3/18
  */
 public class CheckWin_GN
